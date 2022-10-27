@@ -1,17 +1,12 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 
-# WCAG Audit 
+Voor dit project heb ik de website dirk.nl getest op toegankelijkheid voor mensen met een beperking:
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/34092733/198295868-5a889ec0-5dd5-404c-ae59-36aab30a86c7.png">
 
-## Titel Website
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
-
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
-
-Schrijf een een samenvatting van de test bevindingen.
+Zoals je ziet is de test niet al te goed met een score van 60. Ik zag dat vooral de navigatie elementen en het contrast verbeterd kon worden.
 
 
 ## Licentie
